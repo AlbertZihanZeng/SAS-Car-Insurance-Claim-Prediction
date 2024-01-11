@@ -2,7 +2,7 @@
 Car Insurance Claim Prediction
 
 Data Science Project by SAS
-Authors: Albert Zihan Zeng, Saeed Afrough, Sharifa Esfandiari
+Authors: Albert Zihan Zeng
 Date: 2024-01-06
 
 Dataset downloaded from:
